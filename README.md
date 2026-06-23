@@ -105,6 +105,7 @@ Before publishing an output produced with these skills, check:
 - [awesome-ai-paper-reproduction-radar](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar)
 - [awesome-llm-reasoning-roadmap](https://github.com/StaryMoon/awesome-llm-reasoning-roadmap)
 - [paper-memory-mcp-lite](https://github.com/StaryMoon/paper-memory-mcp-lite)
+- [codegraph-memory-mcp-lite](https://github.com/StaryMoon/codegraph-memory-mcp-lite)
 - [obsidian-research-brief-kit](https://github.com/StaryMoon/obsidian-research-brief-kit)
 
 ## License
