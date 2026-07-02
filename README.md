@@ -6,6 +6,12 @@
 [![Skills](https://img.shields.io/badge/skills-6-blue)](#included-skills)
 [![Agent ready](https://img.shields.io/badge/agent-ready-purple)](#install)
 
+<p align="center">
+  <img src="assets/screenshots/arxiv.png" alt="arXiv public homepage screenshot" width="880">
+</p>
+
+<sub>Image source: public arXiv homepage screenshot, [https://arxiv.org/](https://arxiv.org/). Used as a visual reference for AI research paper discovery workflows; not an endorsement by arXiv.</sub>
+
 AI research work is no longer just reading papers. A useful research agent has to move between PDFs, notes, figures, experiments, GitHub projects, reviews, and daily briefing files without losing context. This repository packages that workflow into small, reusable skills that can be copied into Codex, Claude Code, Cursor, Gemini CLI, or any agent that supports file-backed instructions.
 
 If this saves you time while reading or organizing papers, a star helps other researchers discover it.
