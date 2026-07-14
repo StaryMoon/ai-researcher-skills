@@ -63,6 +63,18 @@ skills/github-research-maintainer/SKILL.md
 | [`review-rebuttal-helper`](skills/review-rebuttal-helper/SKILL.md) | You are handling reviewer comments or camera-ready changes. | Claim-by-claim rebuttal map and concise response draft. |
 | [`github-research-maintainer`](skills/github-research-maintainer/SKILL.md) | You want a research repo to look credible and easy to review. | README/release/issue/PR checklist with concrete edits. |
 
+## Standalone CLI-backed Skills
+
+For workflows that need deterministic artifacts in addition to agent instructions, these standalone repositories add tested Python CLIs, structured output contracts, verified demos, CI, and downloadable release archives.
+
+| Workflow | Standalone skills |
+|---|---|
+| Paper reading | [Paper Figure Extractor](https://github.com/StaryMoon/paper-figure-extractor-skill) · [Paper to Group Meeting](https://github.com/StaryMoon/paper-to-group-meeting-skill) |
+| Evidence recovery | [Chart to Editable Data](https://github.com/StaryMoon/chart-to-editable-data-skill) · [Results Table to Figure](https://github.com/StaryMoon/results-table-to-figure-skill) |
+| Experiments | [Experiment Log Report](https://github.com/StaryMoon/experiment-log-report-skill) · [Image Benchmark Report](https://github.com/StaryMoon/image-benchmark-report-skill) |
+| Quality gates | [Paired Dataset Audit](https://github.com/StaryMoon/paired-dataset-audit-skill) · [LaTeX Camera Ready](https://github.com/StaryMoon/latex-camera-ready-skill) |
+| Collaboration | [Review Response Matrix](https://github.com/StaryMoon/review-response-matrix-skill) · [Bug Evidence to Issue](https://github.com/StaryMoon/bug-evidence-to-issue-skill) |
+
 ## Example Commands
 
 The `commands/` folder contains prompt recipes that compose the skills:
